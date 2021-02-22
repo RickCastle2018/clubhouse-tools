@@ -20,4 +20,4 @@ if __name__ == "__main__":
     #user enters phone number of user he wants to invite
     phone_number = input("Enter phone number of user you want to invite: ")
     name = input("Enter name of user you want to invite: ")
-    clubhouse.invite_to_app(name, phone_number, message="Invited from clubhouse-invite")
+    clubhouse.invite_to_app(name, phone_number, "Invited from clubhouse-invite")

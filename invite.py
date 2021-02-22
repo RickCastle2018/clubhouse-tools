@@ -4,7 +4,7 @@ if __name__ == "__main__":
     clubhouse = Clubhouse()
 
     #hello message
-    print("clubhouse-invite \n©2021 by Nikita Nikonov")
+    print("clubhouse-tools / invite \n©2021 by Nikita Nikonov \n ")
 
     #user enters tel
     phone_number = input("Enter your phone number to login into Clubhouse: ")
